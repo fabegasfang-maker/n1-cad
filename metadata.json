@@ -1,0 +1,8 @@
+{
+  "name": "Thai CAD & DWG/DXF Studio",
+  "description": "โปรแกรมเปิด ดู และแปลงไฟล์แบบร่าง CAD / DWG / DXF รองรับฟอนต์และข้อความภาษาไทยสมบูรณ์แบบ พร้อมระบบเรนเดอร์ Canvas/SVG ตรวจสอบเลเยอร์ วัดระยะ และส่งออกไฟล์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
